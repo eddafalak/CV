@@ -210,7 +210,7 @@ header {
 
 .hero-img-container img {
   position: absolute;
-  width: 200px;
+  width: 210px;
   background-color: var(--body-bg);
 }
 
